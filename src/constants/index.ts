@@ -36,6 +36,9 @@ export const ERROR_MESSAGES = {
   USER_EXISTS: 'User already exists.',
   INVALID_CREDENTIALS: 'Invalid email or password.',
   INTERNAL_SERVER_ERROR: 'Internal Server Error',
+  SOMETHING_WENT_WRONG: 'Something Went Wrong',
+  USER_NOT_FOUND: 'User not found',
+  INCORRECT_PASSWORD: 'Incorrect Password',
 };
 
 export const SUCCESS_MESSAGES = {
